@@ -1,5 +1,10 @@
 {
   "latest_version_code": "2.0.0",
   "latest_version_name": "2.0.0",
-  "download_url": "https://github.com"
+  "min_version_code": "1.0.0",
+  "update_title": "Pembaruan Aplikasi Tersedia",
+  "update_message": "Versi baru 2.0.0 telah hadir! Nikmati perbaikan performa.",
+  "changelog": "- Menambahkan fitur baru.\n- Memperbaiki bug pada chat.\n- Meningkatkan stabilitas aplikasi.",
+  "download_url": "https://github.com/USERNAME/REPO/releases/download/v2.0.0/app-release.apk",
+  "force_update": false
 }
