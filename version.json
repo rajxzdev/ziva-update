@@ -5,6 +5,6 @@
   "update_title": "Pembaruan Aplikasi Tersedia",
   "update_message": "Versi baru 2.0.0 telah hadir! Nikmati perbaikan performa.",
   "changelog": "- Menambahkan fitur baru.\n- Memperbaiki bug pada chat.\n- Meningkatkan stabilitas aplikasi.",
-  "download_url": "https://github.com/USERNAME/REPO/releases/download/v2.0.0/app-release.apk",
+  "download_url": "https://github.com/rajxzdev/ziva-update/releases/tag/2.0.0",
   "force_update": false
 }
