@@ -1,9 +1,9 @@
 {
   "latest_version_code": "2.0.0",
-  "latest_version_name": "2.0.0",
-  "min_version_code": "1.0.0",
+  "latest_version_name": "2.1.0",
+  "min_version_code": "2.0.0",
   "update_title": "Pembaruan Aplikasi Tersedia",
-  "update_message": "Versi baru 2.0.0 telah hadir! Nikmati perbaikan performa.",
+  "update_message": "Versi baru 2.1.0 telah hadir! Nikmati perbaikan performa.",
   "changelog": "- Menambahkan fitur baru.\n- Memperbaiki bug pada chat.\n- Meningkatkan stabilitas aplikasi.",
   "download_url": "https://github.com/rajxzdev/ziva-update/releases/tag/2.0.0",
   "force_update": false
